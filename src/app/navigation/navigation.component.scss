@@ -1,0 +1,16 @@
+
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+a {
+  line-height: 2em;
+  display: block;
+  background-color: darkgoldenrod;
+  text-decoration: none;
+  padding: 10px;
+}
